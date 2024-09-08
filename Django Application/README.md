@@ -7,7 +7,7 @@
 - CUDA version >= 10.0 for GPU
 - GPU Compute Capability > 3.0
 
-You can find the list of requirements in [requirements.txt](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/Django%20Application/requirements.txt). Main requirements are listed below:
+You can find the list of requirements in [requirements.txt](https:/lukiod/SIH2024-Team22-404BrainNotFound/github.com//blob/master/Django%20Application/requirements.txt). Main requirements are listed below:
 
 ```
 Python >= v3.6
