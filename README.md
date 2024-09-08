@@ -38,13 +38,17 @@ SIH-2024
   <img src="https://github.com/lukiod/SIH-2024/tree/main/github_assets/System%20Architecture.png" />
 </p>
 
-## 4. Demo
+## 4. Run Project Locally
+Step 1 : Clone this repo 
+Step 2 : Go to Django Application directory
+Step 3 : Look out for ReadMe.md in Django Application Dir 
+Step 4 : Follow the instruction mentioned in the ReadMe
+
+
+GoodLuck Figuring This Out 
 
 ### You can watch the demo vedio
 
-<p align="center">
-  <img src="https://github.com/lukiod/SIH-2024/tree/main/github_assets/fakegif.gif" />
-</p>
 
 ## 5. Our Results
 
