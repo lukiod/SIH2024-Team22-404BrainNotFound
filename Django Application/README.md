@@ -113,6 +113,7 @@ Example if you are in VS Code type `wsl sudo apt install python3-pip`
 
 `python manage.py runserver`
 
-## Demo
+## Demo Vedio 
+https://drive.google.com/file/d/18YolvlOZjsoPgCFiWkVzV3HjfcU3ecLh/view?usp=sharing
 
 ### You can watch the demo vedio for reference
