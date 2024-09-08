@@ -11,7 +11,7 @@
 
 ## 1. Introduction
 
-This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the [documentaion](https://github.com/lukiod/SIH-2024/tree/main/Documentation).
+This projects aims in detection of video deepfakes using deep learning techniques like ResNext and LSTM. We have achived deepfake detection by using transfer learning where the pretrained ResNext CNN is used to obtain a feature vector, further the LSTM layer is trained using the features. For more details follow the Documentation Under ReadMe.md
 
 ## 2. Directory Structure
 
@@ -33,10 +33,9 @@ SIH-2024
    - This directory consists of all the documentation done during the project
 
 ## 3. System Architecture
+![System Architecture](https://github.com/user-attachments/assets/959f6897-a3dc-4b9c-8b60-09138653429f)
 
-<p align="center">
-  <img src="https://github.com/lukiod/SIH-2024/tree/main/github_assets/System%20Architecture.png" />
-</p>
+
 
 ## 4. Run Project Locally
 Step 1 : Clone this repo 
@@ -101,7 +100,6 @@ GoodLuck Figuring This Out
 5. Ananya
 6. Aastha
 
-## 8. We welcome Open Source Contribution.
 
 ### Below are the some changes that can be applied to the project. New Ideas will be appreciated.
 
@@ -114,4 +112,4 @@ GoodLuck Figuring This Out
 
 - [X] Dockerizing the app
 - [X] Enabling working of project on Non Cuda Computers. i.e on normal or AMD GPUs
-# hidden
+
