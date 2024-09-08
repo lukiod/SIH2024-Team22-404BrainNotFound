@@ -39,8 +39,11 @@ SIH-2024
 
 ## 4. Run Project Locally
 Step 1 : Clone this repo 
+
 Step 2 : Go to Django Application directory
+
 Step 3 : Look out for ReadMe.md in Django Application Dir 
+
 Step 4 : Follow the instruction mentioned in the ReadMe
 
 
