@@ -1,5 +1,5 @@
 # Deep fake detection Django Application
-
+We highly recommend working without Docker, unless you enjoy digital claustrophobia and have a PhD in 'Container Escape Artistry' from the University of Masochistic Computing.
 ## Requirements:
 
 **Note :** Nvidia GPU is mandatory to run the application.
@@ -41,7 +41,7 @@ docker run -p 80:80 --volumes-from deepfakeapplication -v static_volume:/home/ap
 
 #### Step 4: All set now launch up your application at [http://localhost:80](http://localhost:80)
 
-### Step 5: Star⭐ this repo 😉 on `<a href="https://github.com/lukiod/SIH_2024" >`  `<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />` `</a>` and   Star⭐ this image on  `</a>`
+### Step 5: Star⭐ this repo 😉 on `<a href="https://github.com/lukiod/SIH2024-Team22-404BrainNotFound" >`
 
 # Running application locally on your machine
 
