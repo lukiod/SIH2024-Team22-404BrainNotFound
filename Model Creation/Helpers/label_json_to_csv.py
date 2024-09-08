@@ -11,8 +11,8 @@ import pandas as pd
 
 
 for i in range(8):
-    path_json = "F:\College\BE\Final year project\FF_Dataset\Kaggle dataset\dfdc_train_part_"+str(i)+"\metadata.json"
-    path_csv = "F:\College\BE\Final year project\FF_Dataset\Kaggle dataset\dfdc_train_part_"+str(i)+"\metadata.csv"
+    path_json = "E:/College/Btech/SIH2024/FF_Dataset/Kaggle dataset/dfdc_train_part_"+str(i)+"/metadata.json"
+    path_csv = "E:/College/Btech/SIH2024/FF_Dataset\Kaggle dataset/dfdc_train_part_"+str(i)+"/metadata.csv"
     print(path_csv)
     print(path_json)
     read_json = pd.read_json(path_json)
