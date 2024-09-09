@@ -30,13 +30,13 @@ Django >= v3.0
 #### Step 2: Run the deepfake detection docker docker image
 
 ```
-docker run --rm --gpus all -v static_volume:/home/app/staticfiles/ -v media_volume:/app/uploaded_videos/ --name=deepfakeapplication abhijitjadhav1998/deefake-detection-20framemodel
+docker run --rm --gpus all -v static_volume:/home/app/staticfiles/ -v media_volume:/app/uploaded_videos/ --name=deepfakeapplication lukiod/deefake-detection-20framemodel
 ```
 
 #### Step 3: Run the Ngnix reverse proxy server docker image
 
 ```
-docker run -p 80:80 --volumes-from deepfakeapplication -v static_volume:/home/app/staticfiles/ -v media_volume:/app/uploaded_videos/ abhijitjadhav1998/deepfake-nginx-proxyserver
+docker run -p 80:80 --volumes-from deepfakeapplication -v static_volume:/home/app/staticfiles/ -v media_volume:/app/uploaded_videos/ lukiod/deepfake-nginx-proxyserver
 ```
 
 #### Step 4: All set now launch up your application at [http://localhost:80](http://localhost:80)
@@ -80,7 +80,7 @@ We Recommend Using Wsl or Linux As their might be some issue with some libs
 
 #### Step 1: Clone the repo and Navigate to Django Application
 
-`git clone https://github.com/lukiod/SIH-2024.git`
+`git clone https://github.com/lukiod/SIH2024-Team22-404BrainNotFound.git`
 
 #### Step 2: Install WSl into  your System
 
